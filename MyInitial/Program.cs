@@ -13,6 +13,7 @@ namespace MyNameSpace
         [STAThread]
         static void Main()
         {
+            //this is my modification on the sample feature branch
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new JuiceBarForm());
